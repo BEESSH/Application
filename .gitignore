@@ -1,7 +1,7 @@
-node_modules
-*.env
 bin
 obj
 .vs
 .idea
-Application/BeeSSH/BEESSH Installer/BEESSH Installer.aip
+MigrationBackup
+UpgradeLog.htm
+packages
